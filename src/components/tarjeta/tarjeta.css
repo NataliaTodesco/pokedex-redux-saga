@@ -1,0 +1,22 @@
+.card{
+    background-color: rgb(0,0,0,.8);
+    color: white;
+    margin: 10%;
+    padding: 5%;
+    margin-top: 3rem;
+    border-radius: 15px;
+    display: flex;
+    text-align: center;
+}
+
+.card img{
+    border-radius: 50%;
+    height: 100px;
+    width:fit-content;
+    margin-top: -3rem;
+    margin-left: 35%;
+}
+
+h3{
+    text-transform: uppercase;
+}
